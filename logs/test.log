@@ -4,3 +4,8 @@
 2023-08-16 11:35:03,966 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
 2023-08-16 11:35:19,497 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
 2023-08-16 11:35:35,538 +0300 [main] INFO  (BeymenStepDefinitions.java:66) - Secilen urun sepete eklendi
+2023-08-18 12:44:54,187 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
+2023-08-18 12:45:02,311 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
+2023-08-18 12:45:02,354 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
+2023-08-18 12:45:03,022 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
+2023-08-18 12:45:10,690 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi

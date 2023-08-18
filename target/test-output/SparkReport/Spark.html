@@ -35,7 +35,7 @@
 <a href="#"><span class="badge badge-primary">Smoke Test Report</span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Aug 16, 2023 11:34:22 AM</span></a>
+<a href="#"><span class="badge badge-primary">Aug 18, 2023 12:44:24 PM</span></a>
 </li>
 </ul>
 </div>
@@ -71,13 +71,13 @@
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>Aug 16, 2023 11:34:22 AM</h3>
+<h3>Aug 18, 2023 12:44:24 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>Aug 16, 2023 11:35:55 AM</h3>
+<h3>Aug 18, 2023 12:45:22 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
@@ -148,10 +148,10 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='70%'><b>7</b> steps passed</small></div>
+<div><small data-tooltip='60%'><b>6</b> steps passed</small></div>
 <div>
 <small data-tooltip='10%'><b>1</b> steps failed,
-<b>2</b> skipped, <b data-tooltip='%'>0</b> others
+<b>3</b> skipped, <b data-tooltip='%'>0</b> others
 </small>
 </div>
 </div>
@@ -167,7 +167,7 @@
 </div></div>
 <script>
 var timeline = {
-"Beymen Test":90.287
+"Beymen Test":55.243
 };
 </script>
 <div class="row">
@@ -218,10 +218,10 @@ warningChild: 0,
 skipChild: 0,
 infoChild: 0,
 grandChildCount: 5,
-passGrandChild: 7,
+passGrandChild: 6,
 failGrandChild: 1,
 warningGrandChild: 0,
-skipGrandChild: 2,
+skipGrandChild: 3,
 infoGrandChild: 0,
 eventsCount: 5,
 };
@@ -256,7 +256,7 @@ eventsCount: 5,
           <div class="test-detail">
             <p class="name">Beymen Test</p>
             <p class="text-sm">
-              <span>11:34:25 AM</span> / <span>00:01:30:287</span>
+              <span>12:44:27 PM</span> / <span>00:00:55:243</span>
               <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
@@ -265,9 +265,9 @@ eventsCount: 5,
 <div class="p-v-10">
 <div class="info">
 <h5 class="test-status text-fail">Beymen Test</h5>
-<span class='badge badge-success'>08.16.2023 11:34:25 AM</span>
-<span class='badge badge-danger'>08.16.2023 11:35:55 AM</span>
-<span class='badge badge-default'>00:01:30:287</span>
+<span class='badge badge-success'>08.18.2023 12:44:27 PM</span>
+<span class='badge badge-danger'>08.18.2023 12:45:22 PM</span>
+<span class='badge badge-default'>00:00:55:243</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
 <span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
 <span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
@@ -312,45 +312,45 @@ eventsCount: 5,
       <div>
       </div>
               </div>
-              <div class="step pass-bg" title="stepDefinitions.BeymenStepDefinitions.secilen_urunu_sepete_ekler()">
+              <div class="step fail-bg" title="stepDefinitions.BeymenStepDefinitions.secilen_urunu_sepete_ekler()">
                 <span>And Secilen urunu sepete ekler</span>
       <div>
-      </div>
-              </div>
-              <div class="step fail-bg" title="stepDefinitions.BeymenStepDefinitions.urun_sayfasindaki_fiyat_ile_sepette_yer_alan_urunun_fiyatinin_dogrulugunu_karsilastirir()">
-                <span>And Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir</span>
-      <div>
-        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
-  (Session info: chrome=115.0.5790.171)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
-Build info: version: '4.8.3', revision: 'e5e76298c3'
+        <textarea disabled class="code-block">org.openqa.selenium.ElementClickInterceptedException: Element <button id="addBasket" class="m-addBasketFavorite__basket btn"> is not clickable at point (1096,628) because another element <iframe id="launcher"> obscures it
+Build info: version: '4.10.0', revision: 'c14d967899'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [e2a8de3dd078a6e363634be38a989117, findElement {using=xpath, value=//span[@class='m-productPrice__salePrice']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Yvz\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:58273}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58273/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: e2a8de3dd078a6e363634be38a989117
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [40f3a451-d519-4532-a54f-26aedbe16ced, clickElement {id=f494dd56-71b6-4e0a-bcb8-b4937c9196a7}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:13971, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11660, moz:profile: C:\Users\Yvz\AppData\Local\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:13971/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on windows (40f3a451-d519-4532-a54f-26aedbe16ced)] -> xpath: //button[@id='addBasket']]
+Session ID: 40f3a451-d519-4532-a54f-26aedbe16ced
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
-	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
-	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
-	at com.sun.proxy.$Proxy26.getText(Unknown Source)
-	at stepDefinitions.BeymenStepDefinitions.urun_sayfasindaki_fiyat_ile_sepette_yer_alan_urunun_fiyatinin_dogrulugunu_karsilastirir(BeymenStepDefinitions.java:70)
-	at ✽.Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir(file:///C:/Users/Yvz/Desktop/GITHUB%20REPOSTORY/com.carrefour_java/src/test/resources/Beymen.feature:11)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:199)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:132)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:531)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:242)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy26.click(Unknown Source)
+	at stepDefinitions.BeymenStepDefinitions.secilen_urunu_sepete_ekler(BeymenStepDefinitions.java:62)
+	at ✽.Secilen urunu sepete ekler(file:///C:/Users/Yvz/Desktop/GITHUB%20REPOSTORY/com.carrefour_java/src/test/resources/Beymen.feature:10)
 </textarea>
       
+      </div>
+              </div>
+              <div class="step skip-bg" title="stepDefinitions.BeymenStepDefinitions.urun_sayfasindaki_fiyat_ile_sepette_yer_alan_urunun_fiyatinin_dogrulugunu_karsilastirir()">
+                <span>And Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir</span>
+      <div>Step skipped
       </div>
               </div>
               <div class="step skip-bg" title="stepDefinitions.BeymenStepDefinitions.adet_sayisini_arttirarak_urun_adedinin_oldugunu_dogrular(java.lang.Integer)">
@@ -421,7 +421,7 @@ Session ID: e2a8de3dd078a6e363634be38a989117
 <tbody>
 <tr class="tag-test-status" status="fail">
 <td><span class="badge log fail-bg">Fail</span></td>
-<td>11:34:25 AM</td>
+<td>12:44:27 PM</td>
 <td>
 <a href="#" class="linked" test-id='1' id='2'>Beymen Test</a>
 <div class="">
@@ -454,12 +454,12 @@ Session ID: e2a8de3dd078a6e363634be38a989117
 <span class="meta">
 <span class='badge log badge-danger'>1</span>
 </span>
-<p class="name">org.openqa.selenium.NoSuchElementException</p>
+<p class="name">org.openqa.selenium.ElementClickInterceptedException</p>
 <p class="duration text-sm">1 tests</p>
 </div>
 <div class="test-contents d-none">
 <div class="info">
-<h4>org.openqa.selenium.NoSuchElementException</h4>
+<h4>org.openqa.selenium.ElementClickInterceptedException</h4>
 <span status="fail" class='badge log badge-danger'>1 failed</span>
 </div>
 <table class='table table-sm mt-4'>
@@ -473,11 +473,11 @@ Session ID: e2a8de3dd078a6e363634be38a989117
 <tbody>
 <tr class="tag-test-status" status="fail">
 <td><span class="badge log fail-bg">Fail</span></td>
-<td>11:35:35 AM</td>
+<td>12:45:10 PM</td>
 <td>
-<a href="#" class="linked" test-id='1' id='9'>And Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir</a>
+<a href="#" class="linked" test-id='1' id='8'>And Secilen urunu sepete ekler</a>
 <div class="">
-<span class="badge badge-default">Beymen Test.Beymen Test.And Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir</span>
+<span class="badge badge-default">Beymen Test.Beymen Test.And Secilen urunu sepete ekler</span>
 </div>
 </td>
 </tr>
