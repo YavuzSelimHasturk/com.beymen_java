@@ -1,55 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="55.961" tests="1" skipped="0" failures="1" errors="0">
-<testcase classname="Beymen Test" name="Beymen Test" time="55.471">
-<failure type="org.openqa.selenium.ElementClickInterceptedException" message="Element &lt;button id=&quot;addBasket&quot; class=&quot;m-addBasketFavorite__basket btn&quot;&gt; is not clickable at point (1096,628) because another element &lt;iframe id=&quot;launcher&quot;&gt; obscures it
-Build info: version: '4.10.0', revision: 'c14d967899'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [40f3a451-d519-4532-a54f-26aedbe16ced, clickElement {id=f494dd56-71b6-4e0a-bcb8-b4937c9196a7}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:13971, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11660, moz:profile: C:\Users\Yvz\AppData\Local\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:13971/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Element: [[FirefoxDriver: firefox on windows (40f3a451-d519-4532-a54f-26aedbe16ced)] -&gt; xpath: //button[@id='addBasket']]
-Session ID: 40f3a451-d519-4532-a54f-26aedbe16ced">
-<![CDATA[org.openqa.selenium.ElementClickInterceptedException: Element <button id="addBasket" class="m-addBasketFavorite__basket btn"> is not clickable at point (1096,628) because another element <iframe id="launcher"> obscures it
-Build info: version: '4.10.0', revision: 'c14d967899'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [40f3a451-d519-4532-a54f-26aedbe16ced, clickElement {id=f494dd56-71b6-4e0a-bcb8-b4937c9196a7}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:13971, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11660, moz:profile: C:\Users\Yvz\AppData\Local\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:13971/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Element: [[FirefoxDriver: firefox on windows (40f3a451-d519-4532-a54f-26aedbe16ced)] -> xpath: //button[@id='addBasket']]
-Session ID: 40f3a451-d519-4532-a54f-26aedbe16ced
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:199)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:132)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:531)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:242)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy26.click(Unknown Source)
-	at stepDefinitions.BeymenStepDefinitions.secilen_urunu_sepete_ekler(BeymenStepDefinitions.java:62)
-	at ✽.Secilen urunu sepete ekler(file:///C:/Users/Yvz/Desktop/GITHUB%20REPOSTORY/com.carrefour_java/src/test/resources/Beymen.feature:10)
-]]>
-</failure>
+<testsuite name="Cucumber" time="78.135" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Beymen Test" name="Beymen Test" time="77.645">
 <system-out><![CDATA[
 Given kullanici Beymen sayfasina gider......................................passed
 Then Cerezleri kabul eder ve cinsiyet secimini yapar........................passed
 And Beymen anasayfasinin acildigini kontrol eder............................passed
 And Arama kutucuguna "aranacak Urun" kelimesini girer ve aratir.............passed
 Then Sonuca gore sergilenen urunlerden rastgele bir urun secer..............passed
-And Secilen urunu sepete ekler..............................................failed
-And Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir.skipped
-And Adet sayisini arttirarak urun adedinin 2 oldugunu dogrular..............skipped
-Then Urunu sepetten silerek sepetin bos oldugunu kontrol eder...............skipped
+And Secilen urunu sepete ekler..............................................passed
+And Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir.passed
+And Adet sayisini arttirarak urun adedinin 2 oldugunu dogrular..............passed
+Then Urunu sepetten silerek sepetin bos oldugunu kontrol eder...............passed
 ]]></system-out>
 </testcase>
 </testsuite>

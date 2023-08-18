@@ -57,6 +57,10 @@ public class BeymenStepDefinitions {
 
     @Then("Secilen urunu sepete ekler")
     public void secilen_urunu_sepete_ekler() {
+        fiyat = beymen.price.getText();
+        fiyat=fiyat.replaceAll("\\D","")+"00TL";
+        fiyat=fiyat.replaceAll("//S","");
+
         beymen.urunBedeni.click();
         ReusableMethods.bekle(2);
         beymen.sepeteEkle.click();
@@ -67,7 +71,8 @@ public class BeymenStepDefinitions {
     }
     @Then("Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugunu karsilastirir")
     public void urun_sayfasindaki_fiyat_ile_sepette_yer_alan_urunun_fiyatinin_dogrulugunu_karsilastirir() {
-        assertEquals(fiyat,beymen.sepettekiUrunFiyati.getText());
+        String sepettekiFiyat =beymen.sepettekiUrunFiyati.getText().replaceAll("\\W","");
+        assertEquals(fiyat,sepettekiFiyat);
         logger.info("Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugu karsilastirildi ");
     }
     @Then("Adet sayisini arttirarak urun adedinin {int} oldugunu dogrular")
