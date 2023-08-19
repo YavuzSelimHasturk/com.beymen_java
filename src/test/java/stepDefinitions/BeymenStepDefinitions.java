@@ -46,6 +46,7 @@ public class BeymenStepDefinitions {
     public void arama_kutucuguna_kelimesini_girer_ve_aratir(String aranacakUrun) {
         aranacakUrun = ConfigReader.getProperty("aranacakBeymen");
         beymen.searchbox.sendKeys(aranacakUrun+ Keys.ENTER);
+
         logger.info("Aranacak urun ismi girildi ve arama yapildi");
     }
     @Then("Sonuca gore sergilenen urunlerden rastgele bir urun secer")
