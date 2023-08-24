@@ -1,119 +1,25 @@
-2023-08-16 11:34:53,401 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-16 11:35:03,287 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-16 11:35:03,382 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-16 11:35:03,966 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-16 11:35:19,497 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-16 11:35:35,538 +0300 [main] INFO  (BeymenStepDefinitions.java:66) - Secilen urun sepete eklendi
-2023-08-18 12:44:54,187 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 12:45:02,311 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 12:45:02,354 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 12:45:03,022 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 12:45:10,690 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 12:58:22,488 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:09:54,713 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:10:07,294 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:10:07,477 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:10:08,800 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:10:32,776 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:10:44,365 +0300 [main] INFO  (BeymenStepDefinitions.java:66) - Secilen urun sepete eklendi
-2023-08-18 13:24:28,039 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:24:34,188 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:24:34,263 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:24:34,752 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:24:44,510 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:24:54,733 +0300 [main] INFO  (BeymenStepDefinitions.java:66) - Secilen urun sepete eklendi
-2023-08-18 13:26:35,887 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:26:42,261 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:26:42,310 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:26:42,840 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:26:57,896 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:28:08,914 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:28:16,375 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:28:16,604 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:28:17,232 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:28:35,984 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:28:46,582 +0300 [main] INFO  (BeymenStepDefinitions.java:66) - Secilen urun sepete eklendi
-2023-08-18 13:33:08,101 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:33:14,499 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:33:14,629 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:33:15,209 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:33:32,758 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:33:44,245 +0300 [main] INFO  (BeymenStepDefinitions.java:68) - Secilen urun sepete eklendi
-2023-08-18 13:38:02,044 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:38:13,158 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:38:13,620 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:38:14,628 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:38:25,675 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:38:40,288 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
-2023-08-18 13:41:52,150 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:41:58,007 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:41:58,035 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:41:58,529 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:42:12,823 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:42:25,182 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
-2023-08-18 13:45:46,461 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:45:52,536 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:45:52,608 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:45:53,041 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:46:10,616 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:46:22,878 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
-2023-08-18 13:48:43,394 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:48:51,508 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:48:51,590 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:48:52,175 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:49:04,197 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:49:12,974 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
-2023-08-18 13:50:38,570 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:50:44,431 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:50:44,455 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:50:44,971 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:50:54,281 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:51:05,083 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
-2023-08-18 13:52:20,449 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:52:28,879 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:52:29,085 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:54:25,875 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:54:31,367 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:54:31,446 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:54:31,911 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:54:39,907 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:54:49,735 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
-2023-08-18 13:56:14,881 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 13:56:21,473 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 13:56:21,561 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 13:56:22,113 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 13:56:35,921 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 13:56:48,272 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
-2023-08-18 14:00:04,388 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 14:00:10,516 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 14:00:10,598 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 14:00:11,365 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 14:00:24,049 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 14:00:35,021 +0300 [main] INFO  (BeymenStepDefinitions.java:70) - Secilen urun sepete eklendi
-2023-08-18 14:02:54,179 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 14:03:00,219 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 14:03:00,258 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 14:03:00,727 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 14:03:13,388 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 14:03:24,761 +0300 [main] INFO  (BeymenStepDefinitions.java:70) - Secilen urun sepete eklendi
-2023-08-18 14:04:22,450 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-18 14:04:35,289 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-18 14:04:35,440 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-18 14:04:35,938 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-18 14:04:45,906 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-18 14:04:56,197 +0300 [main] INFO  (BeymenStepDefinitions.java:70) - Secilen urun sepete eklendi
-2023-08-18 14:04:56,532 +0300 [main] INFO  (BeymenStepDefinitions.java:76) - Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugu karsilastirildi 
-2023-08-18 14:05:17,203 +0300 [main] INFO  (BeymenStepDefinitions.java:100) - Urun adet sayisi artirilarak urun adedinin dogru oldugu kontrol edildi
-2023-08-18 14:05:19,952 +0300 [main] INFO  (BeymenStepDefinitions.java:108) - Urun sepetten silinerek sepetin bos oldugu kontrol edildi
-2023-08-19 14:29:23,197 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-19 14:29:31,143 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-19 14:29:31,296 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-19 14:31:04,353 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
-2023-08-19 14:31:11,771 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
-2023-08-19 14:31:12,186 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
-2023-08-19 14:31:12,648 +0300 [main] INFO  (BeymenStepDefinitions.java:49) - Aranacak urun ismi girildi ve arama yapildi
-2023-08-19 14:31:22,796 +0300 [main] INFO  (BeymenStepDefinitions.java:55) - Aranan urun sonuclarindan biri secildi
-2023-08-19 14:31:32,247 +0300 [main] INFO  (BeymenStepDefinitions.java:70) - Secilen urun sepete eklendi
-2023-08-19 14:31:32,760 +0300 [main] INFO  (BeymenStepDefinitions.java:76) - Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugu karsilastirildi 
-2023-08-19 14:31:42,599 +0300 [main] INFO  (BeymenStepDefinitions.java:100) - Urun adet sayisi artirilarak urun adedinin dogru oldugu kontrol edildi
-2023-08-19 14:31:43,988 +0300 [main] INFO  (BeymenStepDefinitions.java:108) - Urun sepetten silinerek sepetin bos oldugu kontrol edildi
+2023-08-24 14:50:24,720 +0300 [main] INFO  (BeymenStepDefinitions.java:27) - Beymen anasayfasina gidildi
+2023-08-24 14:50:33,872 +0300 [main] INFO  (BeymenStepDefinitions.java:36) - Cerezler kabul edildi ve cinsiyet secimi yapildi
+2023-08-24 14:50:33,901 +0300 [main] INFO  (BeymenStepDefinitions.java:43) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
+2023-08-24 14:50:34,405 +0300 [main] INFO  (BeymenStepDefinitions.java:50) - Aranacak urun ismi girildi ve arama yapildi
+2023-08-24 14:50:44,474 +0300 [main] INFO  (BeymenStepDefinitions.java:56) - Aranan urun sonuclarindan biri secildi
+2023-08-24 14:50:55,775 +0300 [main] INFO  (BeymenStepDefinitions.java:71) - Secilen urun sepete eklendi
+2023-08-24 14:50:55,868 +0300 [main] INFO  (BeymenStepDefinitions.java:77) - Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugu karsilastirildi 
+2023-08-24 14:51:09,944 +0300 [main] INFO  (BeymenStepDefinitions.java:101) - Urun adet sayisi artirilarak urun adedinin dogru oldugu kontrol edildi
+2023-08-24 14:51:11,375 +0300 [main] INFO  (BeymenStepDefinitions.java:109) - Urun sepetten silinerek sepetin bos oldugu kontrol edildi
+2023-08-24 15:17:19,763 +0300 [main] INFO  (BeymenStepDefinitions.java:25) - Beymen anasayfasina gidildi
+2023-08-24 15:17:28,710 +0300 [main] INFO  (BeymenStepDefinitions.java:34) - Cerezler kabul edildi ve cinsiyet secimi yapildi
+2023-08-24 15:17:29,390 +0300 [main] INFO  (BeymenStepDefinitions.java:41) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
+2023-08-24 15:17:29,964 +0300 [main] INFO  (BeymenStepDefinitions.java:48) - Aranacak urun ismi girildi ve arama yapildi
+2023-08-24 15:17:45,548 +0300 [main] INFO  (BeymenStepDefinitions.java:54) - Aranan urun sonuclarindan biri secildi
+2023-08-24 15:17:56,212 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
+2023-08-24 15:17:59,420 +0300 [main] INFO  (BeymenStepDefinitions.java:75) - Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugu karsilastirildi 
+2023-08-24 15:19:37,820 +0300 [main] INFO  (BeymenStepDefinitions.java:25) - Beymen anasayfasina gidildi
+2023-08-24 15:19:45,748 +0300 [main] INFO  (BeymenStepDefinitions.java:34) - Cerezler kabul edildi ve cinsiyet secimi yapildi
+2023-08-24 15:19:46,088 +0300 [main] INFO  (BeymenStepDefinitions.java:41) - Beymen anasayfasinin dogru bir sekilde acildigi kontrol edildi
+2023-08-24 15:19:46,693 +0300 [main] INFO  (BeymenStepDefinitions.java:48) - Aranacak urun ismi girildi ve arama yapildi
+2023-08-24 15:20:00,454 +0300 [main] INFO  (BeymenStepDefinitions.java:54) - Aranan urun sonuclarindan biri secildi
+2023-08-24 15:20:23,741 +0300 [main] INFO  (BeymenStepDefinitions.java:69) - Secilen urun sepete eklendi
+2023-08-24 15:20:24,381 +0300 [main] INFO  (BeymenStepDefinitions.java:75) - Urun sayfasindaki fiyat ile sepette yer alan urunun fiyatinin dogrulugu karsilastirildi 
+2023-08-24 15:20:39,163 +0300 [main] INFO  (BeymenStepDefinitions.java:99) - Urun adet sayisi artirilarak urun adedinin dogru oldugu kontrol edildi
+2023-08-24 15:20:41,168 +0300 [main] INFO  (BeymenStepDefinitions.java:107) - Urun sepetten silinerek sepetin bos oldugu kontrol edildi

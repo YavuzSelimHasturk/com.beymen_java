@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="84.837" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="Beymen Test" name="Beymen Test" time="84.338">
+<testsuite name="Cucumber" time="98.765" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Beymen Test" name="Beymen Test" time="98.19">
 <system-out><![CDATA[
 Given kullanici Beymen sayfasina gider......................................passed
 Then Cerezleri kabul eder ve cinsiyet secimini yapar........................passed

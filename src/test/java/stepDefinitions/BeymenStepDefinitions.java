@@ -8,8 +8,6 @@ import utils.ConfigReader;
 import utils.Driver;
 import utils.ReusableMethods;
 
-import java.io.FileWriter;
-import java.io.IOException;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
